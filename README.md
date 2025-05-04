@@ -38,16 +38,6 @@ An Android-based House Booking application that allows users to explore, view, a
 - Minimum SDK 21+
 - YouTube API Key
 
-📁 app/
- ┣ 📁 src/
- ┃ ┣ 📁 main/
- ┃ ┃ ┣ 📁 java/
- ┃ ┃ ┃ ┣ 📁 com.example.housebooking/
- ┃ ┃ ┣ 📁 res/
- ┃ ┃ ┃ ┣ 📁 layout/
- ┃ ┃ ┃ ┣ 📁 drawable/
- ┃ ┃ ┃ ┣ 📁 values/
- ┃ ┃ ┣ AndroidManifest.xml
- ┣ build.gradle
+
 
 
